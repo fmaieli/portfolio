@@ -1,4 +1,9 @@
 import "../src/assets/styles/App.css";
+import Footer from "./layouts/Footer";
+import Header from "./layouts/Header";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
+import Projects from "./pages/Projects";
 
 export default function App() {
   return (
